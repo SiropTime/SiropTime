@@ -1,10 +1,10 @@
-### Hello there!
+### Hello there! 👋
 
 I'm student of MSTU STANKIN, studying Computer Science.
 Studying and working with *Python*, *C*, *Java*, *Assembly*.
 Making some backend, gamedev and lowe-level programming.
 
-#### Technologies
+#### Technologies 🖥
 
 1. Flask
 2. Pygame
