@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hello there!
 
+I'm student of MSTU STANKIN, studying Computer Science.
+Studying and working with *Python*, *C*, *Java*, *Assembly*.
+Making some backend, gamedev and lowe-level programming.
+
+#### Technologies
+
+1. Flask
+2. Pygame
+3. Spring Boot
+4. Standart C/C++ libraries
+5. PostgreSQL
+6. etc.
 <!--
 **SiropTime/SiropTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
