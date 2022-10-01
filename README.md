@@ -2,7 +2,7 @@
 
 I'm student of MSTU STANKIN, studying Computer Science.
 Studying and working with *Python*, *C*, *Java*, *Assembly*.
-Making some backend, gamedev and lowe-level programming.
+Making some backend, gamedev and low-level programming.
 
 #### Technologies 🖥
 
