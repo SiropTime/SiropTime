@@ -7,6 +7,7 @@ Making some backend, gamedev and low-level programming.
 #### Technologies 🖥
 
 1. Flask
+2. FastAPI
 2. Pygame
 3. Spring Boot
 4. Standart C/C++ libraries
