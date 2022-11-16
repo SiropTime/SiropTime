@@ -13,6 +13,8 @@ Making some backend, gamedev and low-level programming.
 4. Standart C/C++ libraries
 5. PostgreSQL
 6. etc.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiropTime)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SiropTime/SiropTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
