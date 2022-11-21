@@ -4,10 +4,12 @@ I'm student of MSTU STANKIN, studying Computer Science.
 Studying and working with *Python*, *C*, *Java*, *Assembly*.
 Making some backend, gamedev and low-level programming.
 
+Also you can check my [website](http://sirop.live) to learn more.
+
 #### Technologies 🖥
 
-1. Flask
-2. FastAPI
+1. FastAPI
+2. Flask
 2. Pygame
 3. Spring Boot
 4. Standart C/C++ libraries
