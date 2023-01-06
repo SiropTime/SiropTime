@@ -4,7 +4,7 @@ I'm student of MSTU STANKIN, studying Computer Science.
 Studying and working with *Go*, *Python*, *C*, *Java/Kotlin*, *Assembly*.
 Making some backend, gamedev and low-level programming.
 
-Also you can check my [website](http://sirop.live) to learn more.
+Also you can check my [website](http://sirop.live) to learn more. (for now sadly doesn't work 'cause i don't pay for hosting )
 
 #### Experience 🤓
 1. **Android developer** work in startup for 6 months. Made mobile app for getting and parsing data for 2 neural networks with Kotlin and Jetpack Compose. Almost all app is written by me.
