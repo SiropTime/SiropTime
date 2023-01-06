@@ -1,20 +1,26 @@
 ### Hello there! 👋
 
 I'm student of MSTU STANKIN, studying Computer Science.
-Studying and working with *Python*, *C*, *Java*, *Assembly*.
+Studying and working with *Go*, *Python*, *C*, *Java/Kotlin*, *Assembly*.
 Making some backend, gamedev and low-level programming.
 
 Also you can check my [website](http://sirop.live) to learn more.
 
+#### Experience 🤓
+1. **Android developer** work in startup for 6 months. Made mobile app for getting and parsing data for 2 neural networks with Kotlin and Jetpack Compose. Almost all app is written by me.
+2. **Golang backend developer** in BWG for now from November 2022. Crypto fintech. Mainly works with cryptoprocessing.
+3. Some **petprojects** in different themes and languages that you can see there - in my GitHub.
+
 #### Technologies 🖥
 
-1. FastAPI
-2. Flask
-2. Pygame
-3. Spring Boot
-4. Standart C/C++ libraries
-5. PostgreSQL
-6. etc.
+1. Fiber (sqlx, swagger, fhttp etc)
+2. FastAPI
+3. Pygame
+4. Kotlin + Jetpack Compose
+5. Standart C/C++ libraries
+6. PostgreSQL
+7. RabbitMQ
+8. etc.
 
 #### Statistics
 
