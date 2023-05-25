@@ -8,8 +8,9 @@ Also you can check my [website](http://sirop.live) to learn more. (for now sadly
 
 #### Experience 🤓
 1. **Android developer** work in startup for 6 months. Made mobile app for getting and parsing data for 2 neural networks with Kotlin and Jetpack Compose. Almost all app is written by me.
-2. **Golang backend developer** in BWG for now from November 2022. Crypto fintech. Mainly works with cryptoprocessing.
-3. Some **petprojects** in different themes and languages that you can see there - in my GitHub.
+2. **Golang backend developer** in BWG from September 2022 to May 2023. Crypto fintech. Mainly works with cryptoprocessing.
+3. **Golang backend developer** in FGANU CITiS (ФГАНУ ЦИТиС) for now from May 2023. Goverment infrastructure for Ministry of Education.
+4. Some **petprojects** in different themes and languages that you can see there - in my GitHub.
 
 #### Technologies 🖥
 
