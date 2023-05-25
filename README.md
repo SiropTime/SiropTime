@@ -14,7 +14,7 @@ Also you can check my [website](http://sirop.live) to learn more. (for now sadly
 
 #### Technologies 🖥
 
-1. Fiber (sqlx, swagger, fhttp etc)
+1. Go (fiber, sqlx, swagger, fhttp etc) 
 2. FastAPI
 3. Pygame
 4. Kotlin + Jetpack Compose
