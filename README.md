@@ -9,19 +9,21 @@ Also you can check my [website](http://sirop.live) to learn more. (for now sadly
 #### Experience 🤓
 1. **Android developer** work in startup for 6 months. Made mobile app for getting and parsing data for 2 neural networks with Kotlin and Jetpack Compose. Almost all app is written by me.
 2. **Golang backend developer** in BWG from September 2022 to May 2023. Crypto fintech. Mainly works with cryptoprocessing.
-3. **Golang backend developer** in FGANU CITiS (ФГАНУ ЦИТиС) for now from May 2023. Goverment infrastructure for Ministry of Education.
-4. Some **petprojects** in different themes and languages that you can see there - in my GitHub.
+3. **Golang backend developer** in FGANU CITiS (ФГАНУ ЦИТиС) from May 2023 to June 2024. Goverment infrastructure for Ministry of Education.
+4. **Golang backend developer** in Ozon.Tech for now from June 2024. E-Commerce, warehouses managment systems.
+5. Some **petprojects** in different themes and languages that you can see there - in my GitHub.
 
 #### Technologies 🖥
 
-1. Go (fiber, sqlx, swagger, fhttp etc) 
-2. FastAPI
-3. Pygame
-4. Kotlin + Jetpack Compose
-5. Standart C/C++ libraries
-6. PostgreSQL
+1. Go
+2. gRPC
+3. Kafka
+4. PostgreSQL
+5. Kotlin + Jetpack Compose
+6. Standart C/C++ libraries
 7. RabbitMQ
-8. etc.
+8. Python (FastAPI, pandas, etc)
+9. etc.
 
 #### Statistics
 
